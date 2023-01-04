@@ -1,4 +1,4 @@
-# Chainlink
+# ChainLink
 Tool for rapid generation of chained payload droppers from multiple file types
 
 Ex:
