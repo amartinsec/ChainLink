@@ -1,2 +1,5 @@
 # Chain-Link
-Tool for rapid generation of payload droppers 
+Tool for rapid generation of chained payload droppers
+
+Ex:
+ISO --> LNK --> .CMD --> Rundll32 --> 💣💥
